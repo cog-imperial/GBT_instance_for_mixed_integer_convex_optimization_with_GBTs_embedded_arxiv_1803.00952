@@ -11,6 +11,12 @@ This repository contains the concrete mixture design gradient-boosted tree insta
 ### Files
 - `trained_instance.RData`: the trained instance using the parameters listed under Training Description below
 - `trained_instance.tree`: the trained instance printed using `pretty.gbm.tree`.
+- `labels.dat`: labels for variables
+- `lower.dat`: vector of lower bounds
+- `means.dat`: mean vector
+- `pca_load.dat`: PCA loading vectors
+- `stddev.dat`: vector of standard deviations
+- `upper.dat`: vector of upper bounds
 
 ### Training Description
 - Data source: [concrete compressive strength data set](https://archive.ics.uci.edu/ml/datasets/concrete+compressive+strength) on UCI machine learning repository (Yeh, 1998; Dheeru and Karra Taniskidou, 2017).
