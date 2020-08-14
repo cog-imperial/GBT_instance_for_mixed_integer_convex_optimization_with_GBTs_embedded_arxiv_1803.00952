@@ -1,4 +1,5 @@
 # Gradient-Boosted Trees Model used for Concrete Mixture Design Instance in ArXiv:1803.00952
+[![DOI](https://zenodo.org/badge/253614039.svg)](https://zenodo.org/badge/latestdoi/253614039)
 ##### Miten Mistry, Dimitrios Letsios, Gerhard Krennrich, Robert M. Lee and Ruth Misener
 ###### Imperial College London, UK
 ###### BASF SE, Germany
